@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	bootcheck "golang-studies/bootcheck"
+	bootcheck "golang-studies/general/bootcheck"
 )
 
 func main() {
