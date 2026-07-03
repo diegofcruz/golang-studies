@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "editor.autoIndent": "full",
+    "editor.formatOnSave": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.inlineSuggest.enabled": false,
+    "github.copilot.inlineSuggest.enable": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
+}
