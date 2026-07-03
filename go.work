@@ -1,3 +1,9 @@
 go 1.25.5
 
+// Each directory below is its own Go module (its own go.mod), not just a
+// folder: "general" and "leetcodes" have no reason to share a dependency
+// graph or release cadence. go.work lets `go build ./...`/`go test ./...`
+// work across both from the repo root without publishing/tagging either
+// one as a versioned dependency of the other.
 use ./general
+use ./leetcodes

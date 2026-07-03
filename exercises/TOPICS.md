@@ -4,7 +4,10 @@ This roadmap is progressive: from first principles to production-level Go engine
 
 ## Exercise Packs
 
-- [Exercise Pack 01 - Setup and Language Fundamentals](exercises/01-setup-and-fundamentals.md)
+**Status legend:** `[x]` done, `[~]` pack created / in progress, `[ ]` not started (no pack yet). Generate new packs on demand with `/new-topic <topic-number-or-slug>`.
+
+- [x] Pack 01 — Setup and Language Fundamentals — [`01-setup-and-fundamentals.md`](01-setup-and-fundamentals.md), self-check: [`01-final-questions.md`](01-final-questions.md)
+- [~] Pack 02 — Core Data Structures and Types — [`02-core-data-structures.md`](02-core-data-structures.md), self-check: [`02-final-questions.md`](02-final-questions.md)
 
 ## 0) Setup and Tooling Foundations
 
